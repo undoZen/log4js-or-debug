@@ -1,0 +1,7 @@
+test/dev-no-output.js
+test/prod-no-output.js
+test/dev-output-only-hello.js
+test/prod-output-only-hello.js
+test/prod-output-only-hello-level-at-least-info.js
+test/dev-output-hello-world.js
+test/prod-output-hello-world-level.js
