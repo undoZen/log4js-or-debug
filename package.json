@@ -1,6 +1,6 @@
 {
   "name": "log4js-or-debug",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "use tj's debug in development and log4js in production",
   "main": "index.js",
   "scripts": {
