@@ -1,0 +1,24 @@
+{
+  "name": "log4js-or-debug",
+  "version": "0.0.0",
+  "description": "use tj's debug in development and log4js in production",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/undoZen/log4js-or-debug.git"
+  },
+  "keywords": [
+    "logger",
+    "debug",
+    "log4js"
+  ],
+  "author": "undoZen <opensource@undozen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undoZen/log4js-or-debug/issues"
+  },
+  "homepage": "https://github.com/undoZen/log4js-or-debug"
+}
